@@ -12,8 +12,8 @@
         "php": ">=5.4.0",
         "symfony/framework-bundle": "~2.6",
         "sergeil/extjslocalization-bundle": "~1.0",
-        "hydface/mjr-integration-bundle": "dev-master",
-        "hydface/languages-bundle": "dev-master"
+        "hydface/mjr-integration-bundle": "self.version",
+        "hydface/languages-bundle": "self.version"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
